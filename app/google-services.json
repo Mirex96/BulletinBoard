@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258356874186",
+    "project_id": "bulletinboard-8f7ef",
+    "storage_bucket": "bulletinboard-8f7ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258356874186:android:ac8add6401fff6df345d33",
+        "android_client_info": {
+          "package_name": "com.example.bulletinboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258356874186-tiq4n5er17oq10tdkg7rh1qc62tkbfea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlMIcebCD0rPadl2VJ6K4XgLQI7Vt5Lrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258356874186-tiq4n5er17oq10tdkg7rh1qc62tkbfea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

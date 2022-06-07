@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BulletinBoard</string>
+    <!-- Menu Drawer Strings -->
+    <string name="ad_title">Объявления</string>
+    <string name="ad_my_ads">Мои объявления</string>
+    <string name="ad_car">Машины</string>
+    <string name="ad_pc">Компьютеры</string>
+    <string name="ad_smartphone">Смартфоны</string>
+    <string name="ad_appliances">Бытовая техника</string>
+    <string name="ad_account">Аккаунт</string>
+    <string name="ac_signe_up">Регистрация</string>
+    <string name="ac_signe_in">Вход</string>
+    <string name="ac_signe_out">Выход</string>
+    <string name="not_reg">Войдите или зарегистрируйтесь!</string>
+
+    <!-- данные на открытие и закрытие Toolbar -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <!-- Sign Dialog, AlertDialog -->
+    <string name="email_hint">Email</string>
+    <string name="email_reset_password_was_sent">Reset Email was sent!</string>
+    <string name="dialog_reset_email_message">Для восстановления пароля укажите ваш email адрес!</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_action">Зарегистрироваться</string>
+    <string name="sign_in_action">Войти</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="sing_up_error">Не удалось зарегистрироваться</string>
+    <string name="sing_in_error">Не удалось войти</string>
+    <string name="send_verification_error">Не удалось отправить email для подтверждения</string>
+    <string name="send_verification_done">На вашу почту была отправлена ссылка для подтерждения вашего аккаунта,
+        пожалуйста полтвердите ваш аккаунт!</string>
+
+
+</resources>
